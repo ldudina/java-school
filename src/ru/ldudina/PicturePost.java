@@ -11,7 +11,7 @@ public class PicturePost extends MediaPost implements Printable {
     public boolean isMultiColored() {return multiColored;}
 
     @Override
-    String getSize() {
+    public String getSize() {
         return "2 МБ";
     }
 

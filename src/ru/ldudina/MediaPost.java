@@ -1,6 +1,6 @@
 package ru.ldudina;
 
-public abstract class MediaPost extends SocialNetworkPost {
+public abstract class MediaPost extends AbstractSocialNetworkPost {
     //private String author;
     // private String data;
     //private String message;
@@ -15,4 +15,6 @@ public abstract class MediaPost extends SocialNetworkPost {
     }
 
     public boolean isMagazine() {return magazine;}
+
+    public abstract String getSize();
 }

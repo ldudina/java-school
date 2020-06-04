@@ -1,6 +1,6 @@
 package ru.ldudina;
 
-public class TextPost extends SocialNetworkPost implements Printable {
+public class TextPost extends AbstractSocialNetworkPost implements Printable {
    //private String author; //эти поля наследуются из класса SocialNetworkPost
    //private String data;
    //private String messageText;
@@ -18,7 +18,7 @@ public class TextPost extends SocialNetworkPost implements Printable {
     public int getFontSize () { return fontSize;}
 
     @Override
-    String getSize() {
+    public String getSize() {
         return "0,1 MБ";
     }
 

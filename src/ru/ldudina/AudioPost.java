@@ -1,6 +1,6 @@
 package ru.ldudina;
 
-public class AudioPost extends SocialNetworkPost implements Playable {
+public class AudioPost extends AbstractSocialNetworkPost implements Playable {
 
 
 
@@ -14,7 +14,7 @@ public class AudioPost extends SocialNetworkPost implements Playable {
     }
 
     @Override
-    String getSize() {
+    public String getSize() {
         return "50 МБ";
     }
 }

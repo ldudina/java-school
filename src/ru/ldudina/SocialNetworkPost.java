@@ -1,20 +1,20 @@
 package ru.ldudina;
 
-public abstract class SocialNetworkPost {
+abstract class AbstractSocialNetworkPost {
 
     private String author;
     private String date;
     private String messageText;
     private Message message;
 
-    public SocialNetworkPost(String writer, String date, String messageText, Message message) {
+    public AbstractSocialNetworkPost(String writer, String date, String messageText, Message message) {
         author = writer;
         setDate(date);
         this.messageText = messageText;
         this.message = message;
     }
 
-    abstract String getSize();
+    public abstract String getSize();
 
     public String getAuthor() {
         return author;
@@ -26,10 +26,6 @@ public abstract class SocialNetworkPost {
 
     public Message getMessage() {
         return message;
-    }
-
-    public void printState() {
-        System.out.println(author + " " + date + " " + message);
     }
 
     public void setAuthor(String author) {
@@ -47,6 +43,12 @@ public abstract class SocialNetworkPost {
     public void setMessage(Message message) {
         this.message = message;
     }
+
+
+    public void printState() {
+        System.out.println(author + " " + date + " " + message);
+    }
+
 
     enum Message {
         RECORD, REPOST, COMMENT;
