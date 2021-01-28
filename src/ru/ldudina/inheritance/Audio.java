@@ -15,9 +15,6 @@ public class Audio extends Media implements Play {
         return "4МБ";
     }
 
-    enum AudioFormat {
-        CD, DVD, MP3;
-    }
 
     @Override
     public void play() {

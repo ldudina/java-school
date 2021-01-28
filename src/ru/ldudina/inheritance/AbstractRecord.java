@@ -13,30 +13,31 @@ public abstract class AbstractRecord {
         this.date = date;
         this.message = message;
         this.messageText = messageText;
-        }
+    }
 
-    public String getAutor() {return autor;}
-    public Date getDate() {return date;}
-    public String getMessage() {return message;}
-    public MessageText getMessageText() {return messageText;}
+    public String getAutor() {
+        return autor;
+    }
+
+    public Date getDate() {
+        return date;
+    }
+
+    public String getMessage() {
+        return message;
+    }
+
+    public MessageText getMessageText() {
+        return messageText;
+    }
 
     public String getContent() {
-       return String.format("autor: %s, date: %s, message: %s, MessageText: %s", autor, date, message, messageText);
+        return String.format("autor: %s, date: %s, message: %s, MessageText: %s", autor, date, message, messageText);
     }
 
     public abstract String maxRecordSize();
 
-    enum MessageText {
-    RECORD, REPOST, COMMENT;
-    }
 
-    public void print() {
-        System.out.println(autor + " " + date + " " + message);
-    }
-
-    public void play() {
-        System.out.println(autor + " " + date + " " + message);
-    }
 
 }
 
