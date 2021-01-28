@@ -2,7 +2,7 @@ package ru.ldudina.inheritance;
 
 import java.util.Date;
 
-public class Picture extends Media {
+public class Picture extends Media implements Print{
     private boolean colored;
 
     public Picture(String autor, Date date, String message, MessageText MessageText, boolean radio, boolean colored) {
@@ -31,8 +31,4 @@ public class Picture extends Media {
         System.out.println("Распечатать изображение");
     }
 
-    @Override
-    public void play() {
-        return;
-    }
 }

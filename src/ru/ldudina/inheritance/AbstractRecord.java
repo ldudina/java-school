@@ -6,7 +6,7 @@ public abstract class AbstractRecord {
     private final String autor;
     private final Date date;
     private final String message;
-    private MessageText messageText;
+    private final MessageText messageText;
 
     public AbstractRecord(String autor, Date date, String message, MessageText messageText) {
         this.autor = autor;

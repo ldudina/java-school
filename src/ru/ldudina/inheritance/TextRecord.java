@@ -2,7 +2,7 @@ package ru.ldudina.inheritance;
 
 import java.util.Date;
 
-public class TextRecord extends AbstractRecord {
+public class TextRecord extends AbstractRecord implements Print{
     //private String author; //эти поля наследуются из класса AbstractRecord
     //private String data;
     //private String message;

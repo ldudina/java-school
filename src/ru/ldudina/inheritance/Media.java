@@ -30,11 +30,4 @@ public abstract class Media extends AbstractRecord {
         return null;
     }
 
-    @Override
-    public void print() {
-        return;
-    }
-
-    @Override
-    public abstract void play();
 }

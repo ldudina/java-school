@@ -45,11 +45,6 @@ abstract class AbstractSocialNetworkPost {
     }
 
 
-    public void printState() {
-        System.out.println(author + " " + date + " " + message);
-    }
-
-
     enum Message {
         RECORD, REPOST, COMMENT;
     }
