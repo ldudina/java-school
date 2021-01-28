@@ -2,7 +2,7 @@ package ru.ldudina.inheritance;
 
 import java.util.Date;
 
-public class Audio extends Media implements Play {
+public class Audio extends Media {
     private AudioFormat audioFormat;
 
     public Audio(String autor, Date date, String message, MessageText MessageText, boolean radio, AudioFormat audioFormat) {
