@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a9bb9f-2447-42b5-9893-dc0611881ee9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-school.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/META-INF/java-school.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/AbstractSocialNetworkPost$Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/AbstractSocialNetworkPost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/AudioPost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/Exceptions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/MediaPost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/MyException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/MyException2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/PicturePost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/Playable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/Praxic/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/Printable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/TextPost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/dishwasher/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/dishwasher/Dishwasher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-school/ru/ldudina/dishwasher/DishwasherException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/ldudina/SocialNetworkPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/ldudina/SocialNetworkPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/ldudina/inheritance/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/ldudina/inheritance/Audio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/ldudina/inheritance/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/ldudina/inheritance/Media.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,6 +36,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ldudina/inheritance/AbstractRecord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+              <folding>
+                <element signature="e#1039#1040#0" expanded="true" />
+                <element signature="e#1109#1110#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/ldudina/inheritance/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -72,19 +58,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/ldudina/SocialNetworkPost.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/ldudina/inheritance/TextRecord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+            <state relative-caret-position="68">
+              <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/ldudina/Printable.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/ldudina/SocialNetworkPost.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="578">
+              <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -108,32 +94,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/ldudina/inheritance/Print.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/ldudina/inheritance/Picture.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="277">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/ldudina/inheritance/Picture.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-              <folding>
-                <element signature="e#786#787#0" expanded="true" />
-                <element signature="e#808#809#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/ldudina/inheritance/Audio.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -181,8 +154,8 @@
         <option value="$PROJECT_DIR$/src/ru/ldudina/inheritance/AbstractRecord.java" />
         <option value="$PROJECT_DIR$/src/ru/ldudina/inheritance/Main.java" />
         <option value="$PROJECT_DIR$/src/ru/ldudina/SocialNetworkPost.java" />
-        <option value="$PROJECT_DIR$/src/ru/ldudina/inheritance/Audio.java" />
         <option value="$PROJECT_DIR$/src/ru/ldudina/inheritance/Media.java" />
+        <option value="$PROJECT_DIR$/src/ru/ldudina/inheritance/Audio.java" />
       </list>
     </option>
   </component>
@@ -431,11 +404,25 @@
       <option name="project" value="LOCAL" />
       <updated>1611813043475</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HomeTask_Inheritance+Interfaces">
+      <created>1611826935854</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611826935854</updated>
+    </task>
+    <task id="LOCAL-00008" summary="HomeTask_Inheritance+Interfaces_Update">
+      <created>1611827212976</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611827212976</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62934000" />
+    <option name="totallyTimeSpent" value="63451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -459,7 +446,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.45302013" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4986577" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.54697984" side_tool="true" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50201344" side_tool="true" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -511,7 +498,8 @@
     <MESSAGE value="create one more SocialNetworkPost" />
     <MESSAGE value="create one more Dishwasher" />
     <MESSAGE value="HomeTask_Inheritance+Interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeTask_Inheritance+Interfaces" />
+    <MESSAGE value="HomeTask_Inheritance+Interfaces_Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeTask_Inheritance+Interfaces_Update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Desktop/Java School/EnumMain.java">
@@ -606,8 +594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/ldudina/inheritance/TextRecord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        <state relative-caret-position="68">
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -623,13 +611,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/ldudina/inheritance/AbstractRecord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="37" column="63" selection-start-line="37" selection-start-column="63" selection-end-line="37" selection-end-column="63" />
+        <state relative-caret-position="68">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
           <folding>
-            <element signature="e#947#948#0" expanded="true" />
-            <element signature="e#1017#1018#0" expanded="true" />
             <element signature="e#1039#1040#0" expanded="true" />
-            <element signature="e#1075#1076#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -683,10 +669,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/ldudina/inheritance/Audio.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/ldudina/inheritance/Picture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        <state relative-caret-position="277">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
@@ -697,14 +683,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/ldudina/inheritance/Picture.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/ldudina/inheritance/Audio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-          <folding>
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
